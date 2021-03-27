@@ -1,0 +1,13 @@
+{
+  "films": [
+    {"title": "Murder Mystery", "category": "комедія", "picture_file": "1.jpg"},
+    {"title": "The Christmas Chronicles: Part Two", "category": "комедія", "picture_file": "2.jpg"},
+    {"title": "Madagascar", "category": "мультфільм", "picture_file": "3.jpg"},
+    {"title": "Despicable Me 2", "category": "мультфільм", "picture_file": "4.jpg"},
+    {"title": "The SpongeBob Movie: Sponge on the Run", "category": "мультфільм", "picture_file": "5.jpg"},
+    {"title": "Bird Box", "category": "драма", "picture_file": "6.jpg"},
+    {"title": "The Godfather", "category": "драма", "picture_file": "7.jpg"},
+    {"title": "1+1", "category": "драма", "picture_file": "1plus1.jfif"},
+    {"title": "Анабель", "category": "жахи", "picture_file": "anabel.jfif"}
+  ]
+}
